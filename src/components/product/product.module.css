@@ -1,0 +1,11 @@
+.product{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.product .card{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}

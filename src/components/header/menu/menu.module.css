@@ -1,0 +1,24 @@
+.menu {
+    max-width: 650px;
+    width: 100%;
+}
+
+.menu ul {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu ul li a{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    color: #121212;
+    transition: all.2s ease;
+}
+
+.menu ul li a:hover{
+    color: #9C9C9C;
+}

@@ -1,0 +1,20 @@
+.newProduct{
+    width: 100%;
+    margin: 80px 0 0;
+}
+
+.cardItem{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 15px;
+    align-items: center;
+}
+
+.title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #231F20;
+}

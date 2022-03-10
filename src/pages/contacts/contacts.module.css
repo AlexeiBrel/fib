@@ -1,0 +1,38 @@
+.map {
+    margin-top: 50px;
+}
+
+.contact {
+    margin-top: 30px;
+}
+
+p {
+    margin: 0;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #0E0C0D;
+    margin-top: 10px;
+}
+
+.phone {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 46px;
+    text-transform: uppercase;
+    color: #F7D22D;
+}
+
+.address {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 32px;
+    color: #0E0C0D;
+    margin-top: 15px;
+}

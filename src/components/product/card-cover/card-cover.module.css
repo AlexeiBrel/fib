@@ -1,0 +1,10 @@
+.cardCover{
+    display: block;
+    height: 318px;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
